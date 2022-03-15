@@ -1,4 +1,4 @@
-# AULA07
+# AULA 07
 
 
 IMERSÃO DEV_ DA ALURA - [AULA/07.](https://imersao.dev/aulas/aula07-supertrunfo)
