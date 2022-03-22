@@ -1,5 +1,7 @@
-body {
-    font-family: 'Roboto Mono', monospace;
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500&display=swap");
+
+* body {
+  font-family: "Rajdhani";
     min-height: 854px;
     background-image: url('https://i.pinimg.com/originals/bc/ee/02/bcee023f50d598f7994668fc21e67cdd.gif');
     background-color: #f7daf1;
